@@ -34,5 +34,5 @@ import puppeteer from "puppeteer";
     console.error(err);
   }
 
-  console.log("Done");
+  console.log("start");
 })();
